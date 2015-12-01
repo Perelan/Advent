@@ -18,7 +18,7 @@ public class AdventDay1
 			}
 
 			// Task2
-			// Find position of where santa is in the basement
+			// Find position of when santa is in the basement
 			if(floor == -1){
 				System.out.println("POSITION " + (i + 1));
 				break;
