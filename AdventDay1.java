@@ -1,5 +1,3 @@
-import java.util.*;
-
 // NOTE: I know I'm repeating code, me no care. Kappa :)
 
 public class AdventDay1{
