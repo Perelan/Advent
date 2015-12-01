@@ -24,6 +24,6 @@ public class AdventDay1
 				break;
 			}
 		}
-		System.out.println("SANTA IS IN FLOOR: " + floor);
+		System.out.println("FLOOR: " + floor);
 	}
 }
