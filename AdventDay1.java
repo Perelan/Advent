@@ -1,4 +1,4 @@
-// NOTE: I know I'm repeating code, me no care. Kappa :)
+// NOTE: I know I'm repeating code, lol
 
 public class AdventDay1{
   	// Replace the string with your given input!
